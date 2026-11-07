@@ -4,5 +4,6 @@
 はじめての push ができた
 
 ## chapter02
+develop ブランチで書いた
 
 ## chapter03
